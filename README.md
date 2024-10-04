@@ -4,6 +4,8 @@ Soy un Ingeniero de Sistemas especializado en el desarrollo de Software. Amo la 
 
 **Lenguajes de programación que manejo:**
 
-<img width="50" alt="java" src="img/javase.png" title="java">
-<img width="50" alt="c sharp" src="img/cSharp_logo.png" title="c sharp">
-<img width="50" alt="javascript" src="img/JavaScript-logo.png" title="javascript">
+<div style="display: flex; flex-direction: row; justify-content: center;">
+<img alt="java" src="img/javase.png" title="java" width="30px" height="30px" hspace="5" vspace="5">
+<img alt="c sharp" src="img/cSharp_logo.png" title="c sharp" width="30px" height="30px" hspace="5" vspace="5">
+<img alt="javascript" src="img/JavaScript-logo.png" title="javascript" width="30px" height="30px" hspace="5" vspace="5">
+</div>
