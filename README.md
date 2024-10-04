@@ -39,3 +39,9 @@ A continuación, la suit de tecnología que manejo:
 <img alt="docker" src="img/docker.webp" title="docker" width="30px" height="30px" hspace="5" vspace="5">
 <img alt="git" src="img/git.png" title="git" width="30px" height="30px" hspace="5" vspace="5">
 </div>
+
+**Certificaciones:**
+
+<div style="display: flex; flex-direction: row; justify-content: center;">
+<img alt="az-900" src="img/az-900.png" title="az-900" width="30px" height="30px" hspace="5" vspace="5">
+</div>
