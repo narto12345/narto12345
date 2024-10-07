@@ -18,7 +18,7 @@ A continuación, la suit de tecnologías que manejo:
 <img alt="spring" src="img/spring.svg" title="spring" width="30px" height="30px" hspace="5" vspace="5">
 <img alt="angular" src="img/angular.png" title="angular" width="30px" height="30px" hspace="5" vspace="5">
 <img alt="dotnet" src="img/dotnet.png" title="dotnet" width="30px" height="30px" hspace="5" vspace="5">
-<img alt="express" src="img/express-js.png" title="express" width="30px" height="30px" hspace="5" vspace="5">
+<img alt="express.js" src="img/express-js.png" title="express.js" width="30px" height="30px" hspace="5" vspace="5">
 <img alt="jakarta" src="img/jakarta.png" title="jakarta" width="30px" height="30px" hspace="5" vspace="5">
 </div>
 
