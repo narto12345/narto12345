@@ -1,6 +1,6 @@
 # Saludos👋
 
-Soy un Ingeniero de Sistemas especializado en el desarrollo de Software. Amo la tecnología y me emociona todo lo que podemos lograr con ella, cada día intento aprender o enseñar. Constantemente busco mejorar mis habilidades y obtener nuevos conocimientos. Mi objetivo es aportar grandes cosas a esta hermosa industria.
+Soy un Ingeniero de Sistemas especializado en el desarrollo de Software. Amo la tecnología y me emociona todo lo que podemos lograr con ella, cada día intento aprender o enseñar cosas nuevas, y constantemente busco mejorar mis habilidades y obtener nuevos conocimientos. Mi objetivo es aportar grandes cosas a esta hermosa industria.
 
 **A continuación, algunas de las tecnologías que manejo:**
 
